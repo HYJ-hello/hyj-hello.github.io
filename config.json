@@ -5,7 +5,10 @@
     "GMEEK_VERSION":"last",
     "startSite":"03/28/2025",
     "i18n":"CN",
-    "exlink":{"about":"https://hyj-hello.github.io/html"},
-    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>"
+    "singlePage":["about"],
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>"
+
 
 }
