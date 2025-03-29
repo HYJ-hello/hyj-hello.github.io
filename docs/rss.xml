@@ -1,5 +1,52 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>HYJ|Blog</title><link>https://hyj-hello.github.io</link><description>若前方无路，我便踏出一条路。若天地不容，我便扭转这乾坤!</description><copyright>HYJ|Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://onecode-media.oss-cn-hangzhou.aliyuncs.com/avatar/bb024166a7d844e68a8b8c4cb0317110/2.png</url><title>avatar</title><link>https://hyj-hello.github.io</link></image><lastBuildDate>Sat, 29 Mar 2025 03:04:58 +0000</lastBuildDate><managingEditor>HYJ|Blog</managingEditor><ttl>60</ttl><webMaster>HYJ|Blog</webMaster><item><title>CFF CSP-J春训课(一)</title><link>https://hyj-hello.github.io/post/CFF%20CSP-J-chun-xun-ke-%28-yi-%29.html</link><description># 学习成果分享
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>HYJ|Blog</title><link>https://hyj-hello.github.io</link><description>若前方无路，我便踏出一条路。若天地不容，我便扭转这乾坤!</description><copyright>HYJ|Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://onecode-media.oss-cn-hangzhou.aliyuncs.com/avatar/bb024166a7d844e68a8b8c4cb0317110/2.png</url><title>avatar</title><link>https://hyj-hello.github.io</link></image><lastBuildDate>Sat, 29 Mar 2025 14:38:13 +0000</lastBuildDate><managingEditor>HYJ|Blog</managingEditor><ttl>60</ttl><webMaster>HYJ|Blog</webMaster><item><title>C++循环进阶简单项目分享</title><link>https://hyj-hello.github.io/post/C%2B%2B-xun-huan-jin-jie-jian-dan-xiang-mu-fen-xiang.html</link><description># 只是分享一个再简单不过的小程序
+```C++
+#include &lt;iostream&gt;
+using namespace std;
+int main()
+{
+    int n;
+    cin &gt;&gt; n;
+    for(int i=1;i&lt;=n;i++)
+        {
+            cout &lt;&lt;'*';
+        }
+    cout &lt;&lt; endl;
+    for(int i=1;i&lt;=n-2;i++)
+        {
+            for(int j=1;j&lt;=n-1;j++)
+                {
+                    cout &lt;&lt; ' ';
+                }
+            cout &lt;&lt; '*' &lt;&lt; endl;
+        }
+    for(int i=1;i&lt;=n;i++)
+        {
+            cout &lt;&lt;'*';
+        }
+    
+    cout &lt;&lt; endl;
+    for(int i=1;i&lt;=n-2;i++)
+        {
+            for(int j=1;j&lt;=n-1;j++)
+                {
+                    cout &lt;&lt; ' ';
+                }
+            cout &lt;&lt; '*' &lt;&lt; endl;
+        }
+    for(int i=1;i&lt;=n;i++)
+        {
+            cout &lt;&lt;'*';
+        }
+}
+```
+# 介绍
+以下是绘制数字“3”的C++代码的详细说明：
+
+---
+
+### **代码功能概述**
+本程序通过控制台输入一个整数 `n`，根据 `n` 的值绘制出由星号(`*`)组成的数字“3”。</description><guid isPermaLink="true">https://hyj-hello.github.io/post/C%2B%2B-xun-huan-jin-jie-jian-dan-xiang-mu-fen-xiang.html</guid><pubDate>Sat, 29 Mar 2025 14:37:46 +0000</pubDate></item><item><title>CFF CSP-J春训课(一)</title><link>https://hyj-hello.github.io/post/CFF%20CSP-J-chun-xun-ke-%28-yi-%29.html</link><description># 学习成果分享
 ## 这里是我第一课的学习成果，在此分享给大家
 ### 一，基数
 某个进制下，表示能用的符号的个数，通常用**R**表示
