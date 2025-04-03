@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>HYJ|Blog</title><link>https://hyj-hello.github.io</link><description>若前方无路，我便踏出一条路。若天地不容，我便扭转这乾坤!</description><copyright>HYJ|Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://onecode-media.oss-cn-hangzhou.aliyuncs.com/avatar/bb024166a7d844e68a8b8c4cb0317110/2.png</url><title>avatar</title><link>https://hyj-hello.github.io</link></image><lastBuildDate>Thu, 03 Apr 2025 08:14:32 +0000</lastBuildDate><managingEditor>HYJ|Blog</managingEditor><ttl>60</ttl><webMaster>HYJ|Blog</webMaster><item><title>C++循环进阶简单项目分享</title><link>https://hyj-hello.github.io/post/C%2B%2B-xun-huan-jin-jie-jian-dan-xiang-mu-fen-xiang.html</link><description># 只是分享一个再简单不过的小程序
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>HYJ|Blog</title><link>https://hyj-hello.github.io</link><description>若前方无路，我便踏出一条路。若天地不容，我便扭转这乾坤!</description><copyright>HYJ|Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://onecode-media.oss-cn-hangzhou.aliyuncs.com/avatar/bb024166a7d844e68a8b8c4cb0317110/2.png</url><title>avatar</title><link>https://hyj-hello.github.io</link></image><lastBuildDate>Thu, 03 Apr 2025 08:19:05 +0000</lastBuildDate><managingEditor>HYJ|Blog</managingEditor><ttl>60</ttl><webMaster>HYJ|Blog</webMaster><item><title>C++循环进阶简单项目分享</title><link>https://hyj-hello.github.io/post/C%2B%2B-xun-huan-jin-jie-jian-dan-xiang-mu-fen-xiang.html</link><description># 只是分享一个再简单不过的小程序
 ```C++
 #include &lt;iostream&gt;
 using namespace std;
@@ -52,7 +52,10 @@ int main()
 某个进制下，表示能用的符号的个数，通常用**R**表示
 进位规则:R进制下，逢R进一
 ### 二，位权
-每一个固定位置对应的单位值，仅由基数和未知决定，与数字符号无关。</description><guid isPermaLink="true">https://hyj-hello.github.io/post/CFF%20CSP-J-chun-xun-ke-%28-yi-%29.html</guid><pubDate>Sat, 29 Mar 2025 03:04:29 +0000</pubDate></item><item><title>关于我</title><link>https://hyj-hello.github.io/post/guan-yu-wo.html</link><description># 介绍
+每一个固定位置对应的单位值，仅由基数和未知决定，与数字符号无关。</description><guid isPermaLink="true">https://hyj-hello.github.io/post/CFF%20CSP-J-chun-xun-ke-%28-yi-%29.html</guid><pubDate>Sat, 29 Mar 2025 03:04:29 +0000</pubDate></item><item><title>《零基础驯服GitHub Pages：从吃泡面到拥有个人网站的奇幻漂流》</title><link>https://hyj-hello.github.io/post/%E3%80%8A-ling-ji-chu-xun-fu-GitHub%20Pages%EF%BC%9A-cong-chi-pao-mian-dao-yong-you-ge-ren-wang-zhan-de-qi-huan-piao-liu-%E3%80%8B.html</link><description>各位互联网流浪汉、赛博吉普赛人、以及不小心点进来的产品经理们！今天我们要用程序员的方式搞点大事情——不写代码、不买服务器、不氪金，免费拥有一个能吹牛的个人网站！准备好你的键盘和表情包收藏夹，我们的奇幻漂流开始了！
+
+第一章：认识你的赛博房东——GitHub Pages
+想象GitHub是个包租婆，她手里有无数个免费小单间（仓库），而GitHub Pages就是其中最神奇的魔法房间。</description><guid isPermaLink="true">https://hyj-hello.github.io/post/%E3%80%8A-ling-ji-chu-xun-fu-GitHub%20Pages%EF%BC%9A-cong-chi-pao-mian-dao-yong-you-ge-ren-wang-zhan-de-qi-huan-piao-liu-%E3%80%8B.html</guid><pubDate>Fri, 28 Mar 2025 11:26:24 +0000</pubDate></item><item><title>关于我</title><link>https://hyj-hello.github.io/about.html</link><description># 介绍
 ### 我是HYJ，这里是我的~Blog~ **秘密基地**
 #### 要做一个有**flag**的程序员!
 目标
@@ -61,8 +64,5 @@ int main()
 - 备赛**CCF CSP-J**
 - 蓝桥等考达到*18级*
 # 座右铭
-## 若前方无路，我便踏出一条路。</description><guid isPermaLink="true">https://hyj-hello.github.io/post/guan-yu-wo.html</guid><pubDate>Sat, 29 Mar 2025 02:31:19 +0000</pubDate></item><item><title>《零基础驯服GitHub Pages：从吃泡面到拥有个人网站的奇幻漂流》</title><link>https://hyj-hello.github.io/post/%E3%80%8A-ling-ji-chu-xun-fu-GitHub%20Pages%EF%BC%9A-cong-chi-pao-mian-dao-yong-you-ge-ren-wang-zhan-de-qi-huan-piao-liu-%E3%80%8B.html</link><description>各位互联网流浪汉、赛博吉普赛人、以及不小心点进来的产品经理们！今天我们要用程序员的方式搞点大事情——不写代码、不买服务器、不氪金，免费拥有一个能吹牛的个人网站！准备好你的键盘和表情包收藏夹，我们的奇幻漂流开始了！
-
-第一章：认识你的赛博房东——GitHub Pages
-想象GitHub是个包租婆，她手里有无数个免费小单间（仓库），而GitHub Pages就是其中最神奇的魔法房间。</description><guid isPermaLink="true">https://hyj-hello.github.io/post/%E3%80%8A-ling-ji-chu-xun-fu-GitHub%20Pages%EF%BC%9A-cong-chi-pao-mian-dao-yong-you-ge-ren-wang-zhan-de-qi-huan-piao-liu-%E3%80%8B.html</guid><pubDate>Fri, 28 Mar 2025 11:26:24 +0000</pubDate></item><item><title>友链</title><link>https://hyj-hello.github.io/link.html</link><description># 友情链接
+## 若前方无路，我便踏出一条路。</description><guid isPermaLink="true">https://hyj-hello.github.io/about.html</guid><pubDate>Sat, 29 Mar 2025 02:31:19 +0000</pubDate></item><item><title>友链</title><link>https://hyj-hello.github.io/link.html</link><description># 友情链接
 - [Meekdai](https://blog.meekdai.com/) github的大佬Meekdai的个人博客。</description><guid isPermaLink="true">https://hyj-hello.github.io/link.html</guid><pubDate>Thu, 03 Apr 2025 08:14:05 +0000</pubDate></item></channel></rss>
