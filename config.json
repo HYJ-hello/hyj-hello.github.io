@@ -5,12 +5,11 @@
     "GMEEK_VERSION":"last",
     "startSite":"03/28/2025",
     "i18n":"CN",
-    "singlePage":["about"],
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>",
     "bottomText":"转载请注明出处",
-    "singlePage":["link"]
+    "singlePage":["link","about"]
 
 
 }
