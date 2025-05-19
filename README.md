@@ -1,4 +1,4 @@
-# HYJ|Blog :link: https://hyj666.dpdns.org
+# HYJ|Blog :link: https://blog.hyj666.dpdns.org
 ### :page_facing_up: [4](https://hyj-hello.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 6095 
