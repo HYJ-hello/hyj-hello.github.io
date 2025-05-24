@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>HYJ|Blog</title><link>https://hyj-hello.github.io</link><description>若前方无路，我便踏出一条路。若天地不容，我便扭转这乾坤!</description><copyright>HYJ|Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://onecode-media.oss-cn-hangzhou.aliyuncs.com/avatar/bb024166a7d844e68a8b8c4cb0317110/2.png</url><title>avatar</title><link>https://hyj-hello.github.io</link></image><lastBuildDate>Mon, 19 May 2025 14:33:19 +0000</lastBuildDate><managingEditor>HYJ|Blog</managingEditor><ttl>60</ttl><webMaster>HYJ|Blog</webMaster><item><title>DDoS攻击防护措施与技术解析</title><link>https://hyj-hello.github.io/post/DDoS-gong-ji-fang-hu-cuo-shi-yu-ji-shu-jie-xi.html</link><description>在2025年的网络安全环境下，针对DDoS攻击的防护已从单一工具发展为多维度、智能化的综合防御体系。</description><guid isPermaLink="true">https://hyj-hello.github.io/post/DDoS-gong-ji-fang-hu-cuo-shi-yu-ji-shu-jie-xi.html</guid><pubDate>Mon, 19 May 2025 14:32:52 +0000</pubDate></item><item><title>C++循环进阶简单项目分享</title><link>https://hyj-hello.github.io/post/C%2B%2B-xun-huan-jin-jie-jian-dan-xiang-mu-fen-xiang.html</link><description># 只是分享一个再简单不过的小程序
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>HYJ|Blog</title><link>https://hyj-hello.github.io</link><description>若前方无路，我便踏出一条路。若天地不容，我便扭转这乾坤!</description><copyright>HYJ|Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://onecode-media.oss-cn-hangzhou.aliyuncs.com/avatar/bb024166a7d844e68a8b8c4cb0317110/2.png</url><title>avatar</title><link>https://hyj-hello.github.io</link></image><lastBuildDate>Sat, 24 May 2025 13:39:09 +0000</lastBuildDate><managingEditor>HYJ|Blog</managingEditor><ttl>60</ttl><webMaster>HYJ|Blog</webMaster><item><title>[2025/5/24]C++学习日常</title><link>https://hyj-hello.github.io/post/%5B2025-5-24%5DC%2B%2B-xue-xi-ri-chang.html</link><description># 又是天气炎热的一天 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+# 今日要点:cstdio中的fgets(可以输入带空格的字符数组)
+`#include &lt;cstdio&gt;`
+`fgets(str,15,stdin);`
+- str代表的是字符数组的名称
+- 15代表输入的长度
+- stdin表示从标准输入流获取信息，可以不用管
+### 日志结束
+### zzz,睡觉了
+。</description><guid isPermaLink="true">https://hyj-hello.github.io/post/%5B2025-5-24%5DC%2B%2B-xue-xi-ri-chang.html</guid><pubDate>Sat, 24 May 2025 13:38:41 +0000</pubDate></item><item><title>DDoS攻击防护措施与技术解析</title><link>https://hyj-hello.github.io/post/DDoS-gong-ji-fang-hu-cuo-shi-yu-ji-shu-jie-xi.html</link><description>在2025年的网络安全环境下，针对DDoS攻击的防护已从单一工具发展为多维度、智能化的综合防御体系。</description><guid isPermaLink="true">https://hyj-hello.github.io/post/DDoS-gong-ji-fang-hu-cuo-shi-yu-ji-shu-jie-xi.html</guid><pubDate>Mon, 19 May 2025 14:32:52 +0000</pubDate></item><item><title>C++循环进阶简单项目分享</title><link>https://hyj-hello.github.io/post/C%2B%2B-xun-huan-jin-jie-jian-dan-xiang-mu-fen-xiang.html</link><description># 只是分享一个再简单不过的小程序
 ```C++
 #include &lt;iostream&gt;
 using namespace std;
