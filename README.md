@@ -4,4 +4,3 @@
 ### :hibiscus: 1861 
 ### :alarm_clock: 2025-09-12 23:04:30 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
-![Visitor Count](https://profile-counter.glitch.me/HTJ-hello/count.svg)
